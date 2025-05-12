@@ -4,10 +4,11 @@ This project analyzes global university rankings over the past decade using a co
 
 ## 📁 Project Structure
 
-- **notebooks/**: Jupyter Notebook with data cleaning, processing, and analysis steps.
-- **data/**: Cleaned dataset stored in Excel with 6 sheets (main data, metadata, pivot tables, etc.).
-- **sql/**: SQL queries used for further exploration and analysis (e.g., top universities by country).
-- **powerbi/**: Power BI dashboard file (`.pbix`) summarizing insights visually.
+- **data**: [World University Rankings by THE](https://www.timeshighereducation.com/world-university-rankings)
+- **final_notebooks**: Jupyter Notebook with data cleaning, processing, and analysis steps.
+- **cleaned_data**: Cleaned dataset stored in Excel with 6 sheets (main data, metadata, pivot tables, etc.).
+- **queries**: SQL queries used for further exploration and analysis (e.g., top universities by country).
+- **dashboard**: Power BI dashboard file (`.pbix`) summarizing insights visually.
 - **presentation/**: Final slide deck created using Gamma.
 
 ## 🚀 Tools Used
