@@ -1,6 +1,6 @@
 # 🌍 University Ranking Analysis Project
 
-This project analyzes global university rankings over the past decade using a combination of Python, Excel, SQL, and Power BI to deliver insights for students exploring bachelor's/master’s opportunities abroad.
+This project analyzes global university rankings over the past decade using a combination of Python, Parse Hub, Excel, SQL, and Power BI to deliver insights for students exploring bachelor's/master’s opportunities abroad.
 
 ## 📁 Project Structure
 
@@ -14,6 +14,7 @@ This project analyzes global university rankings over the past decade using a co
 ## 🚀 Tools Used
 
 - Python (Jupyter Notebook, Pandas, Matplotlib, Seaborn, Plotly)
+- Parse Hub (for web scraping)
 - SQL (MSSQL)
 - Excel (pivot tables, formatting, metadata)
 - Power BI (dashboard with filters, maps, charts)
