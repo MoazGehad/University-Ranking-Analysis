@@ -35,6 +35,8 @@ Current undergraduate students seeking data-driven guidance for master's studies
 
 - [Kaggle Notebook Link](https://www.kaggle.com/code/moazgehad/world-universities-rank)
 - [Gamma Presentation Link](https://gamma.app/docs/World-University-Rankings-ja3egz5lpfhn0nf)
+- ![Dashboard Preview](insights.png)
+
 
 ---
 
